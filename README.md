@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <em>Start Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Gameplay</em>
+  <em> 🟩 Start Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em> 🟦 Gameplay</em>
 </p>
 
 
