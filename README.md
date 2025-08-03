@@ -27,13 +27,14 @@
 
 <h2>📷 Screenshots</h2>
 <p align="center">
-  <img src="assets/start_screen.png" width="30%" alt="Start Screen">
-  <img src="assets/gameplay.png" width="30%" alt="Gameplay">
-  <img src="assets/gameover_screen.png" width="30%" alt="Game Over">
+  <img width="30%" alt="Start Screen" src="https://github.com/user-attachments/assets/2734d39a-be09-4c63-bdc9-75315bcdf1d7" />
+  <img width="30%" alt="Gameplay" src="https://github.com/user-attachments/assets/0b1672cb-4f98-4e8f-abd6-7b5c2a41fbb4" />
 </p>
+
 <p align="center">
-  <em>Start</em> &nbsp;&nbsp;&nbsp;&nbsp; <em>Gameplay</em> &nbsp;&nbsp;&nbsp;&nbsp; <em>Game Over</em>
+  <em>Start Screen</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Gameplay</em>
 </p>
+
 
 <h2>📚 Learning & Takeaways</h2>
 <p>This project helped me learn:</p>
